@@ -1,5 +1,22 @@
 # 💫 About Me:
-I'm working on an Android application, a Django website, and Data structure and algorithm training for an interview.<br>I'm a Django, React, and Android developer.<br>I'm looking for a collaboration with a React developer.<br>I'm currently learning Electrical engineering as a major field.<br>I'm currently learning Data Structure and Algorithms in A2SV.<br>I'm looking forward to being the best version of myself.<br><br><br><br>
+Hello, I am a skilled backend developer with expertise in Python, particularly in frameworks such as Django, FastAPI, and Flask. I am also experienced in ASP.NET, a powerful web framework for building applications using C#. Alongside my backend proficiency, I am comfortable working with frontend technologies like Vue.js and Nuxt.js, enabling me to develop full-stack applications. In addition to my programming skills, I possess a strong understanding of containerization using Docker, continuous integration/continuous deployment (CI/CD) practices, and cloud environments. I have hands-on experience in agile development methodologies, utilizing tools like Jira and Atlassian to facilitate efficient project management. I thrive in a collaborative team environment and excel in problem-solving using data structures and algorithms. Furthermore, I have practical knowledge in data labeling and machine learning development. Additionally, I have gained valuable experience in the field of cybersecurity. With my diverse skill set, I am capable of delivering robust and scalable solutions across the entire development stack. Explore my GitHub repositories to discover my projects and contributions.
+
+### Key Points:
+- Backend developer with expertise in Python, including Django, FastAPI, and Flask.
+- Proficient in ASP.NET for web application development using C#.
+- Skilled in frontend technologies such as Vue.js and Nuxt.js for full-stack development.
+- Experienced in containerization using Docker.
+- Familiar with continuous integration/continuous deployment (CI/CD) practices.
+- Knowledgeable in working with cloud environments.
+- Experienced in agile development methodologies and project management using Jira and Atlassian tools.
+- Strong teamwork and collaboration skills.
+- Proficient in problem-solving using data structures and algorithms.
+- Practical experience in data labeling and machine learning development.
+- Good understanding of cybersecurity principles and practices.
+- Committed to delivering robust and scalable solutions.
+- Active GitHub user with a portfolio of projects and contributions.
+
+<br><br>
 
 
 ## 🌐 Socials:
@@ -18,4 +35,4 @@ I'm working on an Android application, a Django website, and Data structure and 
 ---
 [![](https://visitcount.itsvg.in/api?id=kebaHailu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
