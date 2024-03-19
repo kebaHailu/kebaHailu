@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hello, I am a skilled backend developer with expertise in Python, particularly in frameworks such as Django, FastAPI, and Flask. I am also experienced in ASP.NET, a powerful web framework for building applications using C#. Alongside my backend proficiency, I am comfortable working with frontend technologies like Vue.js and Nuxt.js, enabling me to develop full-stack applications. In addition to my programming skills, I possess a strong understanding of containerization using Docker, continuous integration/continuous deployment (CI/CD) practices, and cloud environments. I have hands-on experience in agile development methodologies, utilizing tools like Jira and Atlassian to facilitate efficient project management. I thrive in a collaborative team environment and excel in problem-solving using data structures and algorithms. Furthermore, I have practical knowledge in data labeling and machine learning development. Additionally, I have gained valuable experience in the field of cybersecurity. With my diverse skill set, I am capable of delivering robust and scalable solutions across the entire development stack. Explore my GitHub repositories to discover my projects and contributions.
+Hello, I am a skilled backend developer with expertise in Python, particularly in frameworks such as Django, FastAPI, and Flask. <br/><br/>
+I am also experienced in ASP.NET, a powerful web framework for building applications using C#. Alongside my backend proficiency, I am comfortable working with frontend technologies like Vue.js and Nuxt.js, enabling me to develop full-stack applications. <br/><br/>
+In addition to my programming skills, I possess a strong understanding of containerization using Docker, continuous integration/continuous deployment (CI/CD) practices, and cloud environments. I have hands-on experience in agile development methodologies, utilizing tools like Jira and Atlassian to facilitate efficient project management. <br/><br/>
+I thrive in a collaborative team environment and excel in problem-solving using data structures and algorithms. Furthermore, I have practical knowledge in data labeling and machine learning development.<br/><br/>
+Additionally, I have gained valuable experience in the field of cybersecurity. With my diverse skill set, I am capable of delivering robust and scalable solutions across the entire development stack. Explore my GitHub repositories to discover my projects and contributions.
 
-### Key Points:
+### Key Points About Me:
 - Backend developer with expertise in Python, including Django, FastAPI, and Flask.
 - Proficient in ASP.NET for web application development using C#.
 - Skilled in frontend technologies such as Vue.js and Nuxt.js for full-stack development.
