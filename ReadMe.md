@@ -1,15 +1,5 @@
 # 💫 About Me
 
-Hi there! I’m **Kibrom Hailu**, a versatile **backend developer** with strong expertise in **Golang**, **Python** (Django, FastAPI, Flask) and **ASP.NET (C#)**. I build scalable, secure, and efficient applications across the stack, and I’m equally comfortable working on the frontend with **React**, **Vue.js** and **Nuxt.js** for full-stack development.
-
-Beyond coding, I bring hands-on experience with **Docker**, **CI/CD pipelines**, and working in **cloud environments**. I’m a team player familiar with **Agile methodologies**, using tools like Jira and Atlassian for organized, collaborative work.
-
-My experience extends to **data labeling**, **machine learning**, and a practical understanding of **cybersecurity principles**. I love solving complex problems with data structures and algorithms, and I’m passionate about building clean, robust, and user-focused applications.
-
-> 🚀 Explore my repositories to see real-world implementations of my work!
-
----
-
 I build scalable backend systems and APIs that are fast, secure, and production-ready.
 
 With 5+ years of experience, I specialize in Golang and Python (Django, FastAPI) to help startups and businesses turn ideas into reliable backend systems — from MVP to scale.
@@ -54,4 +44,4 @@ By combining solid engineering with AI-assisted workflows, I can:
 
 # 📊 GitHub Public Project Stats
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kebaHailu&limit=5&theme=monokai&combine_all_yearly_contributions=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kebaHailu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kebaHailu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
