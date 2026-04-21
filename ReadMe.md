@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there! I’m **Kibrom Hailu**, a versatile **backend developer** with strong expertise in **Python** (Django, FastAPI, Flask) and **ASP.NET (C#)**. I build scalable, secure, and efficient applications across the stack, and I’m equally comfortable working on the frontend with **Vue.js** and **Nuxt.js** for full-stack development.
+Hi there! I’m **Kibrom Hailu**, a versatile **backend developer** with strong expertise in **Golang**, **Python** (Django, FastAPI, Flask) and **ASP.NET (C#)**. I build scalable, secure, and efficient applications across the stack, and I’m equally comfortable working on the frontend with **React**, **Vue.js** and **Nuxt.js** for full-stack development.
 
 Beyond coding, I bring hands-on experience with **Docker**, **CI/CD pipelines**, and working in **cloud environments**. I’m a team player familiar with **Agile methodologies**, using tools like Jira and Atlassian for organized, collaborative work.
 
@@ -10,18 +10,39 @@ My experience extends to **data labeling**, **machine learning**, and a practica
 
 ---
 
-### 🔧 What I Bring to the Table
+I build scalable backend systems and APIs that are fast, secure, and production-ready.
 
-- 💻 Python Backend: Django, FastAPI, Flask  
-- 🧠 Strong grasp of Data Structures & Algorithms  
-- ☁️ Cloud-native development with Docker, CI/CD  
-- 🌐 Frontend: Vue.js, Nuxt.js  
-- 🔒 Cybersecurity awareness & best practices  
-- 📈 Agile team collaboration using Jira, Atlassian  
-- 🧪 Data labeling & ML development  
-- 💬 Fluent communication & team collaboration  
-- 💼 ASP.NET (C#) for enterprise-grade apps  
----
+With 5+ years of experience, I specialize in Golang and Python (Django, FastAPI) to help startups and businesses turn ideas into reliable backend systems — from MVP to scale.
+
+I also leverage modern AI-assisted development workflows (Cursor, Claude AI) to deliver faster iterations, cleaner code, and smarter automation solutions.
+
+🚀 What I Can Help You Build
+
+• High-performance REST APIs (Go, FastAPI, Django)
+• Microservices and clean architecture systems
+• AI-powered automation tools and data pipelines
+• Web scraping systems with intelligent data extraction
+• Scalable backend infrastructure (Docker, Kubernetes, cloud deployment)
+
+🛠 Core Stack
+
+Backend: Golang (Gin/Fiber), Python (Django, FastAPI), ASP.NET
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Infrastructure: Docker, Kubernetes, Azure, CI/CD
+Automation & AI: Selenium, Playwright, BeautifulSoup, Cursor, Claude
+
+⚡ How I Work
+
+I focus on writing clean, maintainable code and building systems that scale efficiently.
+
+By combining solid engineering with AI-assisted workflows, I can:
+✔ Ship faster without sacrificing quality
+✔ Automate complex workflows
+✔ Reduce development time and cost
+
+✔ Clear communication & fast response
+✔ Well-structured, documented code
+✔ Performance and reliability first
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibromhail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kibrom-hailu-867469223) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20266577) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/keba-python)
